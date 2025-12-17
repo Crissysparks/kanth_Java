@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations!</h1>
-<img src="<img src="images/myphoto.jpg" width="250" height="350">" width="200">
+<img src="images/myphoto.jpg" width="250" height="350">" width="200">
 
 <h2>You have successfully launched your Instance!</h2>
 
